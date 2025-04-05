@@ -77,11 +77,12 @@ Developed a Chrome extension that leverages machine learning and blacklisted dat
 - **Problem Solver**: Adapt to any challenge life presents
 - **Creative Thinker**: Bringing unique perspectives from diverse hobbies
 
-## 📈 GitHub Stats (no private repositories included)
+## 📈 GitHub Stats (Includes Private Contributions)
 
-[![Filippos's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipposMylonas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Filippos's GitHub stats](https://github-readme-stats-alpha-silk-87.vercel.app/api?username=FilipposMylonas&show_icons=true&count_private=true&theme=radical)](https://github.com/FilipposMylonas)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipposMylonas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-alpha-silk-87.vercel.app/api/top-langs/?username=FilipposMylonas&layout=compact&theme=radical)](https://github.com/FilipposMylonas)
+
 
 ## 🏎️ When I'm Not Coding...
 
