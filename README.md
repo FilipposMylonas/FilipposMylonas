@@ -77,7 +77,7 @@ Developed a Chrome extension that leverages machine learning and blacklisted dat
 - **Problem Solver**: Adapt to any challenge life presents
 - **Creative Thinker**: Bringing unique perspectives from diverse hobbies
 
-## 📈 GitHub Stats (Includes Private Contributions)
+## 📈 GitHub Stats 
 
 [![Filippos's GitHub stats](https://github-readme-stats-alpha-silk-87.vercel.app/api?username=FilipposMylonas&show_icons=true&count_private=true&theme=radical)](https://github.com/FilipposMylonas)
 
