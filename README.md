@@ -28,7 +28,7 @@ const filippos = {
 
 ## 🚀 Projects
 
-###📍 SenkuMaps
+### 📍 SenkuMaps
 Flutter, Supabase, PostGIS, Riverpod Engineered a real-time automotive community platform featuring live clan tracking, dynamic heatmaps, and hazard clustering. Architected a scalable backend handling high-frequency location updates. Includes a Bachelor's Thesis implementation of a Privacy-Preserving Proximity Voice Chat system. 
 
 
