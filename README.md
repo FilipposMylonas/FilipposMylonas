@@ -17,7 +17,7 @@ const filippos = {
   technologies: {
     frontEnd: ["React", "HTML", "CSS", "ThreeJS"],
     backEnd: ["Django", "Node.js"],
-    mobile: ["Flutter"],
+    mobile: ["Flutter", "React-Expo"],
     databases: ["SQL", "NoSQL"],
     other: ["Machine Learning", "Blender", "Unity"]
   },
@@ -30,7 +30,6 @@ const filippos = {
 
 ### 📍 SenkuMaps
 Flutter, Supabase, PostGIS, Riverpod Engineered a real-time automotive community platform featuring live clan tracking, dynamic heatmaps, and hazard clustering. Architected a scalable backend handling high-frequency location updates. Includes a Bachelor's Thesis implementation of a Privacy-Preserving Proximity Voice Chat system. 
-
 
 ### 😈 [Senku Customs](https://senkucustoms.com)
 A full-featured e-commerce platform built from scratch using React. Implemented custom SMTP servers, user database, and a comprehensive statistics dashboard.
